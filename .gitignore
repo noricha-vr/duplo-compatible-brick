@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+*.gcode
+*.gcode.3mf
+# グローバル gitignore の out/ を打ち消す（STL・STEP は out/ に置く）
+!out/
