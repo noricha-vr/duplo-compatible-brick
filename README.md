@@ -4,6 +4,14 @@
 
 CadQuery script and STL files for 3D-printable DUPLO-compatible bricks, modeled from caliper measurements of real DUPLO bricks and tuned to fit real bricks (top and bottom) on a Bambu Lab A2L with PETG.
 
+![本物の DUPLO（赤・茶）と、このデータで刷ったブロック（黒）](images/printed_vs_real.jpg)
+
+本物の DUPLO（赤・茶）と、このデータを PETG で刷ったブロック（黒。左が 2x2、奥が高さ半分の 2x4、手前が高さ半分の 2x2）。
+
+| 2x2 | 2x2（裏） | 2x4 |
+|---|---|---|
+| ![2x2](images/duplo_2x2.png) | ![2x2 の裏](images/duplo_2x2_bottom.png) | ![2x4](images/duplo_2x4.png) |
+
 ## ファイル
 
 | ファイル | 内容 | 外形（設計値） |
